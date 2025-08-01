@@ -2,10 +2,6 @@
 
 This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.
 
-Here is the video in English - [Decentralize Google Drive](https://youtu.be/M-KRLlHG_zs?si=rD7I-fH-P8kGiwwf)
-
-Here is the video in Hindi - [Decentralize Google Drive](https://youtu.be/fghqq3-P3x0?si=CVMpHFTW3-fa3R3A)
-
 ## Features
 
 - **Decentralized Storage:** Images are uploaded to IPFS, ensuring decentralized and immutable storage.
@@ -81,6 +77,3 @@ Once the setup and configuration are complete, follow these steps to utilize the
 
 4. **Accessing Other User Images:**
    - Use the "Get Data" button to access other users' images. Input the user's address in the designated box, but remember, you can only access their images if they've granted you access through the smart contract. Otherwise, it will throw an error saying "You don't have access".
-
-These steps will ensure smooth navigation and utilization of the system while maintaining access control and avoiding potential errors.
-
